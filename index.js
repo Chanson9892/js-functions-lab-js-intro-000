@@ -3,5 +3,5 @@ function happyHolidays() {
 }
 
 function happyHolidaysTO(name){
-  console.log(`Happy holidays, ${name}!`)
+  return "Happy holidays, " + ${name}!
 }
